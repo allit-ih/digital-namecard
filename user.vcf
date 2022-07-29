@@ -2,13 +2,13 @@ BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
+FN: George Foo 
+ORG:ehub365 Pte Ltd;
+TITLE:Chief Executive Officer
+EMAIL;type=INTERNET;type=WORK;type=pref:gfoo@edu365.edu.sg
 TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+item1.ADR;type=WORK;type=pref:;;9 One-North Gateway, #01-45 One North Residences;;;138643;Singapore
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:ehub365.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
