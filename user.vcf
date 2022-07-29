@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
+N:Foo;George;;;
 FN: George Foo 
 ORG:ehub365 Pte Ltd;
 TITLE:Chief Executive Officer
 EMAIL;type=INTERNET;type=WORK;type=pref:gfoo@edu365.edu.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
+TEL;type=WORK;type=VOICE:+65 9755 5008
 item1.ADR;type=WORK;type=pref:;;9 One-North Gateway, #01-45 One North Residences;;;138643;Singapore
 item1.X-ABADR:sg
-item2.URL;type=pref:ehub365.com
+item2.URL;type=pref:www.ehub365.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
